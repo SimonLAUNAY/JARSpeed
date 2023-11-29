@@ -12,10 +12,10 @@ L’application permettra de consulter des parcours déjà réalisés et de visu
 ## Organisation et équipe
 
 Ce projet est conduit avec en suivant une méthode Agile SCRUM. L'équipe de développement est composée de : 
-- [Jules Blanchard](mailto:jules.blanchard@iut-rodez&subject=JARSpeed) -- [JulesBlanchard](https://github.com/JulesBlanchard)
-- [Axel Bois](mailto:axel.bois@iut-rodez&subject=JARSpeed) -- [aVeRySsWood](https://github.com/aVeRySsWood) 
-- [Romain Courbaize](mailto:romain.courbaize@iut-rodez&subject=JARSpeed) -- [Courbaize](https://github.com/Courbaize) -- Product Owner
-- [Simon Launay](mailto:simon.launay@iut-rodez&subject=JARSpeed) -- [SimonLAUNAY](https://github.com/SimonLAUNAY) -- Scrum Master
+- [Jules Blanchard](mailto:jules.blanchard@iut-rodez?subject=JARSpeed) -- [JulesBlanchard](https://github.com/JulesBlanchard)
+- [Axel Bois](mailto:axel.bois@iut-rodez?subject=JARSpeed) -- [aVeRySsWood](https://github.com/aVeRySsWood) 
+- [Romain Courbaize](mailto:romain.courbaize@iut-rodez?subject=JARSpeed) -- [Courbaize](https://github.com/Courbaize) -- Product Owner
+- [Simon Launay](mailto:simon.launay@iut-rodez?subject=JARSpeed) -- [SimonLAUNAY](https://github.com/SimonLAUNAY) -- Scrum Master
 
 ## Liens utiles
 
