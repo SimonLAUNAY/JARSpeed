@@ -16,6 +16,7 @@ Ce projet est conduit avec en suivant une méthode Agile SCRUM. L'équipe de dé
 - [Axel Bois](mailto:axel.bois@iut-rodez.fr?subject=[GitHub]%20JARSpeed) -- [aVeRySsWood](https://github.com/aVeRySsWood) 
 - [Romain Courbaize](mailto:romain.courbaize@iut-rodez.fr?subject=[GitHub]%20JARSpeed) -- [Courbaize](https://github.com/Courbaize) -- Product Owner
 - [Simon Launay](mailto:simon.launay@iut-rodez.fr?subject=[GitHub]%20JARSpeed) -- [SimonLAUNAY](https://github.com/SimonLAUNAY) -- Scrum Master
+
 [_Ecrire à toute l'équipe_](mailto:jules.blanchard@iut-rodez.fr,axel.bois@iut-rodez.fr,romain.courbaize@iut-rodez.fr,simon.launay@iut-rodez.fr?subject=[GitHub]%20JARSpeed)
 
 ## Liens utiles
